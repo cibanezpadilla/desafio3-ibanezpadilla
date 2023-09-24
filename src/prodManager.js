@@ -289,7 +289,7 @@ const prod10 = {
 
 
 async function test() {
-    const manager = new ProductManager("myprods.json")
+    const manager = new ProductManager("./data/myprods.json")
     
     /* este primer LLAMADO A GETPRODUCTS devuelve un array vacío */
     //console.log( await manager.getProducts())
@@ -341,6 +341,6 @@ async function test() {
    
 
 
-//test()
+test()
 
-export const manager = new ProductManager("myprods.json");
+export const manager = new ProductManager("./data/myprods.json");
