@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "producto1",
+        "description": "este es el producto 1",
+        "price": 200,
+        "thumbnail": "sin imagen1",
+        "code": "abc121",
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "title": "producto2",
+        "description": "este es el producto 2",
+        "price": 300,
+        "thumbnail": "sin imagen2",
+        "code": "abc122",
+        "stock": 20
+    },
+    {
+        "id": 3,
+        "title": "producto3",
+        "description": "este es el producto 3",
+        "price": 500,
+        "thumbnail": "sin imagen3",
+        "code": "abc123",
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "title": "producto4",
+        "description": "este es el producto 4",
+        "price": 100,
+        "thumbnail": "sin imagen4",
+        "code": "abc124",
+        "stock": 30
+    },
+    {
+        "id": 5,
+        "title": "producto5",
+        "description": "este es el producto 5",
+        "price": 100,
+        "thumbnail": "sin imagen5",
+        "code": "abc125",
+        "stock": 30
+    },
+    {
+        "id": 6,
+        "title": "producto6",
+        "description": "este es el producto 6",
+        "price": 100,
+        "thumbnail": "sin imagen6",
+        "code": "abc126",
+        "stock": 30
+    },
+    {
+        "id": 7,
+        "title": "producto7",
+        "description": "este es el producto 7",
+        "price": 100,
+        "thumbnail": "sin imagen7",
+        "code": "abc127",
+        "stock": 30
+    },
+    {
+        "id": 8,
+        "title": "producto8",
+        "description": "este es el producto 8",
+        "price": 100,
+        "thumbnail": "sin imagen8",
+        "code": "abc128",
+        "stock": 30
+    },
+    {
+        "id": 9,
+        "title": "producto9",
+        "description": "este es el producto 9",
+        "price": 100,
+        "thumbnail": "sin imagen9",
+        "code": "abc129",
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "title": "producto10",
+        "description": "este es el producto 10",
+        "price": 100,
+        "thumbnail": "sin imagen10",
+        "code": "abc1210",
+        "stock": 30
+    }
+]
